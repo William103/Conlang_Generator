@@ -110,7 +110,7 @@ class Consonant:
                         return_val = 'qx'
                     else:
                         return_val = 'qxh'
-        if self.is_ejective == True and self.type_of_articulation == 'plosive' and self.is_voiced == False and return_val != '' and self.is_aspirated == False:
+        if self.is_ejective == True and self.type_of_articulation == 'plosive' and self.place_of_articulation != 'glottal' and self.is_voiced == False and return_val != '' and self.is_aspirated == False:
             return_val += "'"
         elif self.is_ejective == True:
             return ''
