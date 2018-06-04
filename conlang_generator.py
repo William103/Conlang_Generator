@@ -1,7 +1,5 @@
 from random import randint
 from random import shuffle
-from random import random
-from math import log
 
 #Create Consonant class in order to be able to delete blank ones
 class Consonant:
@@ -146,18 +144,28 @@ while len(vowels) > randint(2,6):
 
 while len(cases) > randint(0,8):
     del cases[randint(0,len(cases)-1)]
+if len(cases) == 0:
+    cases.append('')
 
 while len(numbers) > randint(0,5):
     del numbers[randint(0,len(numbers)-1)]
+if len(numbers) == 0:
+    numbers.append('')
 
 while len(persons) > randint(0,4):
     del persons[randint(0,len(persons)-1)]
+if len(persons) == 0:
+    persons.append('')
 
 while len(tenses) > randint(0,7):
     del tenses[randint(0,len(tenses)-1)]
+if len(tenses) == 0:
+    tenses.append('')
 
 while len(moods) > randint(0,5):
     del moods[randint(0,len(moods)-1)]
+if len(moods) == 0:
+    moods.append('')
 
 if randint(0,1) == 1:
     is_aspirated = [False]
@@ -300,7 +308,7 @@ lexicon = {}
 english_words = []
 
 #copying dictionary over to variable
-with open(r"C:\Lemmatized\2+2+3frq.txt", "r") as d:
+with open(r"C:\Lemmatized\2+2+3frq.txt", "r") as d: #change here if you copied the file to a different location
     english_words = d.readlines()
 
 total = len(english_words)
@@ -315,7 +323,7 @@ for word in english_words:
         lexicon[word.replace("\n","")] = new_word
 
 #outputting everything to a document
-with open(r"C:\Users\willi\Conlang_Dictionary.txt","w") as f:
+with open(r"C:\Users\willi\Conlang_Dictionary.txt","w") as f: #change 'willi' to whatever yours is
         f.write("Morphology: \n \nVerbs: \n")
         ending = 0
         for i in numbers:
