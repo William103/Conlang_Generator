@@ -235,11 +235,12 @@ for letter in plosives:
         for i in range(reps - 1):
             plosives.remove(letter)
 
-for letter in fricatives: #remove duplicates
-    if fricatives.count(letter) > 1:
-        reps = fricatives.count(letter)
-        for i in range(reps - 1):
-            fricatives.remove(letter)
+if has_fricatives == True:
+    for letter in fricatives: #remove duplicates
+        if fricatives.count(letter) > 1:
+            reps = fricatives.count(letter)
+            for i in range(reps - 1):
+                fricatives.remove(letter)
 
 
 if randint(0,1) == 1 and 'fricative' in types_of_articulation: #adding possible rhotic; you decide how you want to pronounce it
