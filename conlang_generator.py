@@ -223,7 +223,7 @@ for i in range(randint(0,len(new_consonant_inventory)-3)):
     del new_consonant_inventory[randint(0,len(new_consonant_inventory)-1)]
 
 #setup for generating words
-if 'plosive' in types_of_articulation:
+if 'plosive' or 'ejective' in types_of_articulation:
     plosives = [str(letter) for letter in new_consonant_inventory if (letter.type_of_articulation == 'plosive' or letter.type_of_articulation == 'ejective' or letter.type_of_articulation == 'affricate')]
     has_plosives = True
 else:
