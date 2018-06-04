@@ -223,17 +223,23 @@ for i in range(randint(0,len(new_consonant_inventory)-3)):
     del new_consonant_inventory[randint(0,len(new_consonant_inventory)-1)]
 
 #setup for generating words
-plosives = [str(letter) for letter in new_consonant_inventory if (letter.type_of_articulation == 'plosive' or letter.type_of_articulation == 'ejective' or letter.type_of_articulation == 'affricate')]
+if 'plosive' in types_of_articulation:
+    plosives = [str(letter) for letter in new_consonant_inventory if (letter.type_of_articulation == 'plosive' or letter.type_of_articulation == 'ejective' or letter.type_of_articulation == 'affricate')]
+    has_plosives = True
+else:
+    has_plosives = False
 if 'fricative' in types_of_articulation:
     has_fricatives = True
     fricatives = [str(letter) for letter in new_consonant_inventory if (letter.type_of_articulation == 'fricative')]
 else:
     has_fricatives = False
-for letter in plosives:
-    if plosives.count(letter) > 1:
-        reps = plosives.count(letter)
-        for i in range(reps - 1):
-            plosives.remove(letter)
+
+if has_plosives == True:
+    for letter in plosives:
+        if plosives.count(letter) > 1:
+            reps = plosives.count(letter)
+            for i in range(reps - 1):
+                plosives.remove(letter)
 
 if has_fricatives == True:
     for letter in fricatives: #remove duplicates
