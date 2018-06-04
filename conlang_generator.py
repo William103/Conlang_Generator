@@ -1,7 +1,5 @@
 from random import randint
 from random import shuffle
-from random import random
-from math import log
 
 #Create Consonant class in order to be able to delete blank ones
 class Consonant:
