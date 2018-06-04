@@ -298,7 +298,7 @@ lexicon = {}
 english_words = []
 
 #copying dictionary over to variable
-with open(r"C:\Lemmatized\2+2+3frq.txt", "r") as d:
+with open(r"C:\Lemmatized\2+2+3frq.txt", "r") as d: #either place the file in the exact same location or change this code here
     english_words = d.readlines()
 
 total = len(english_words)
@@ -311,7 +311,7 @@ for word in english_words:
         lexicon[word.replace("\n","")] = new_word
 
 #outputting everything to a document
-with open(r"C:\Users\willi\Conlang_Dictionary.txt","w") as f:
+with open(r"C:\Users\willi\Conlang_Dictionary.txt","w") as f: #change where you want the text to go
         f.write("Morphology: \n \nVerbs: \n")
         ending = 0
         for i in numbers:
