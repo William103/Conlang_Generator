@@ -339,7 +339,7 @@ english_words = []
 new_words = []
 
 #copying dictionary over to variable
-with open(r"C:\Users\willi\roots.txt", "r") as d:
+with open(r"C:\Users\willi\roots.txt", "r") as d: #change "willi" to whatever yours is called
     english_words = d.readlines()
 
 tool = []
@@ -371,7 +371,7 @@ for root in english_words:
     root_lexicon[root.replace("\n",'')] = new_words[i]
     i += 1
 
-with open(r"C:\Users\willi\dictionary.txt","r") as d:
+with open(r"C:\Users\willi\dictionary.txt","r") as d: #change "willi" to whatever yours is called
     real_words = d.readlines()
 tool = []
 for word in real_words:
@@ -402,7 +402,7 @@ for word in real_words:
         lexicon[word] = new_word
             
 #outputting everything to a document
-with open(r"C:\Users\willi\Conlang_Dictionary.txt","w") as f:
+with open(r"C:\Users\willi\Conlang_Dictionary.txt","w") as f: #change "willi" to whatever yours is called
         f.write("Morphology: \n \nVerbs: \n")
         ending = 0
         for i in numbers:
