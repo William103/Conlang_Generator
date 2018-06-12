@@ -27,7 +27,7 @@ class Consonant:
                     return_val = 'b'
             elif self.place_of_articulation == 'dental' or self.place_of_articulation == 'alveolar':
                 if not self.is_voiced:
-                    if not self.is_aspirated:
+                    if not self.is_aspirated: 
                         return_val = 't'
                     else:
                         return_val = 'th'
