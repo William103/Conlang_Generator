@@ -1,0 +1,21 @@
+English: I would have so loved to have had lunch with him on the Champs-Elysées and gone to the top of the Eiffel Tower with him, too.
+
+Uw: Ïwïdzæçëlaçûtlüdlthûtstshaph ïdzæçwætlûtsûts üëctl ûChamps-Elyséesz æph ïwïdzæçdzûç tuEiffel Towerts üëctl, tshäv.
+(I thought my algorithm didn't allow for a cluster like "ctl." I can't pronounce it, personally. I love the circumpositions, though.)
+
+Tïdl: Ædl qhi itsh tlætsh idl æg æqx ïqh ætsh Champs-Elysées ïd qhïdl ïqx Eiffel Tower æqx tlædl ædl qhi ïk.
+(The voiced alveolar affricate just sounds silly this frequently.)
+
+Dzi: Tlëï äéëï dzuaû tlïu tsüï qxeChamps-Elyséesëï tlæqxudza i qxeEiffel Towerau é dzuaädzïu tlëï äéëï i ûudza.
+(Circumpositions are so fun. The uvular affricate is kinda weird, but "tlæqxudza" is really fun to say.)
+
+Ügzlïécdlïæäæ: Ähwmeû a'lïuxgéhûçcgheæ'm ææ ïgx Champs-Elysées æ'l ü étshlæ'm Eiffel Toweruxg ïæ ææ ïgx äq.
+
+Ûæ: Aûuiæ æmiaûu uûu aûphui aChamps-Elyséesû aûi qxghû ûi aûiu aûû Eiffel Towermqxæ uûu a.
+(Holy cow this one loves the aû diphthong. It shows up everywhere. One word in the dictionary had it 5 times!)
+
+É: Üæ u'wïaæ u û deæ thæ é Champs-Elyséeçü i ëa ü i Eiffel Towerçüé ghvi deæ thüa éaïa.
+(This one has a really different literal translation: To have eaten lunch with him on Champs-Elysée-the and gone to top Eifel Tower-the-of too I had loved if-happen-past-perfect. Plus it's ergative-absolutive, which is pretty interesting. It doesn't show up in this text, but it also has the consonant cluster "tlng" a lot which is really hard and fun to say. For example, gratitude is tlnga.)
+
+Iiaéi: Ak'süueümp' ïtsqûe ceudzéi euch'kéïië ach'aiäphmübeuqxhûe üphyûechhy Champs-Elyséesûe ë baüdzzcû ä éië ïtsqûe bü ts'iaphmcû Eiffel Towerûechhy ë baüdzzcû û.
+(Literally: Would loved-strongly have I to eat meal-middle-at day-of with him Champs-Elysées-at and to go have to top Eiffel Tower-of with him. Not as weird, but I thought I should show the crazy variety this program can generate. This language has some crazy phonology, though, with 41 consonants; distinguishing voiceless, voiced, aspirated, and ejective plosives; 10 pure vowels and 14 diphthongs; and a (C)V(C)(C) syllable structure, yielding some gnarly consonant clusters, like the ubiquitous "phm" cluster.)
