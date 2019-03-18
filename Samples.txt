@@ -1,42 +1,42 @@
-English: I would have so loved to have had lunch with him on the Champs-Elysées and gone to the top of the Eiffel Tower with him, too.
+English: I would have so loved to have had lunch with him on the Champs-ElysÃ©es and gone to the top of the Eiffel Tower with him, too.
 
-Uw: Ïwïdzæçëlaçûtlüdlthûtstshaph ïdzæçwætlûtsûts üëctl ûChamps-Elyséesz æph ïwïdzæçdzûç tuEiffel Towerts üëctl, tshäv.
+Uw: ÃwÃ¯dzÃ¦Ã§Ã«laÃ§Ã»tlÃ¼dlthÃ»tstshaph Ã¯dzÃ¦Ã§wÃ¦tlÃ»tsÃ»ts Ã¼Ã«ctl Ã»Champs-ElysÃ©esz Ã¦ph Ã¯wÃ¯dzÃ¦Ã§dzÃ»Ã§ tuEiffel Towerts Ã¼Ã«ctl, tshÃ¤v.
 
 (I thought my algorithm didn't allow for a cluster like "ctl." I can't pronounce it, personally. I love the circumpositions, though, and the agglutination, letting the first mean "I would have so loved.")
 
 
-Tïdl: Ædl qhi itsh tlætsh idl æg æqx ïqh ætsh Champs-Elysées ïd qhïdl ïqx Eiffel Tower æqx tlædl ædl qhi ïk.
+TÃ¯dl: Ã†dl qhi itsh tlÃ¦tsh idl Ã¦g Ã¦qx Ã¯qh Ã¦tsh Champs-ElysÃ©es Ã¯d qhÃ¯dl Ã¯qx Eiffel Tower Ã¦qx tlÃ¦dl Ã¦dl qhi Ã¯k.
 
-(The voiced alveolar affricate just sounds silly this frequently. Analytic languages are also much harder to translate into than synthetic, oddly enough. And isolating languages get to far into semantics for a computer to be able to come up with.)
-
-
-Dzi: Tlëï äéëï dzuaû tlïu tsüï qxeChamps-Elyséesëï tlæqxudza i qxeEiffel Towerau é dzuaädzïu tlëï äéëï i ûudza.
-
-(Circumpositions are so fun. The uvular affricate is kinda weird, but "tlæqxudza" is really fun to say.)
+(The voiced alveolar affricate just sounds silly this frequently. Analytic languages are also much harder to translate into than synthetic, oddly enough. And isolating languages get too far into semantics for a computer to be able to come up with.)
 
 
-Ügzlïécdlïæäæ: Ähwmeû a'lïuxgéhûçcgheæ'm ææ ïgx Champs-Elysées æ'l ü étshlæ'm Eiffel Toweruxg ïæ ææ ïgx äq.
+Dzi: TlÃ«Ã¯ Ã¤Ã©Ã«Ã¯ dzuaÃ» tlÃ¯u tsÃ¼Ã¯ qxeChamps-ElysÃ©esÃ«Ã¯ tlÃ¦qxudza i qxeEiffel Towerau Ã© dzuaÃ¤dzÃ¯u tlÃ«Ã¯ Ã¤Ã©Ã«Ã¯ i Ã»udza.
 
-Ûæ: Aûuiæ æmiaûu uûu aûphui aChamps-Elyséesû aûi qxghû ûi aûiu aûû Eiffel Towermqxæ uûu a.
-
-(Holy cow this one loves the aû diphthong. It shows up everywhere. One word in the dictionary had it 5 times!)
+(Circumpositions are so fun. The uvular affricate is kinda weird, but "tlÃ¦qxudza" is really fun to say.)
 
 
-É: Üæ u'wïaæ u û deæ thæ é Champs-Elyséeçü i ëa ü i Eiffel Towerçüé ghvi deæ thüa éaïa.
+ÃœgzlÃ¯Ã©cdlÃ¯Ã¦Ã¤Ã¦: Ã„hwmeÃ» a'lÃ¯uxgÃ©hÃ»Ã§cgheÃ¦'m Ã¦Ã¦ Ã¯gx Champs-ElysÃ©es Ã¦'l Ã¼ Ã©tshlÃ¦'m Eiffel Toweruxg Ã¯Ã¦ Ã¦Ã¦ Ã¯gx Ã¤q.
 
-(This one has a really different literal translation: To have eaten lunch with him on Champs-Elysée-the and gone to top Eifel Tower-the-of too I had loved if-happen-past-perfect. Plus it's ergative-absolutive, which is pretty interesting. It doesn't show up in this text, but it also has the consonant cluster "tlng" a lot which is really hard and fun to say. For example, gratitude is tlnga.)
+Ã›Ã¦: AÃ»uiÃ¦ Ã¦miaÃ»u uÃ»u aÃ»phui aChamps-ElysÃ©esÃ» aÃ»i qxghÃ» Ã»i aÃ»iu aÃ»Ã» Eiffel TowermqxÃ¦ uÃ»u a.
 
-
-Iiaéi: Ak'süueümp' ïtsqûe ceudzéi euch'kéïië ach'aiäphmübeuqxhûe üphyûechhy Champs-Elyséesûe ë baüdzzcû ä éië ïtsqûe bü ts'iaphmcû Eiffel Towerûechhy ë baüdzzcû û.
-
-(Literally: Would loved-strongly have I to eat meal-middle-at day-of with him Champs-Elysées-at and to go have to top Eiffel Tower-of with him. Not as weird, but I thought I should show the crazy variety this program can generate. This language has some crazy phonology, though, with 41 consonants; distinguishing voiceless, voiced, aspirated, and ejective plosives; 10 pure vowels and 14 diphthongs; and a (C)V(C)(C) syllable structure, yielding some gnarly consonant clusters, like the ubiquitous "phm" cluster.)
+(Holy cow this one loves the aÃ» diphthong. It shows up everywhere. One word in the dictionary had it 5 times!)
 
 
-Uvhaæiauiñç: Atæu itsæuuuabyuuiwuuwgh uth æudñæuqxh ugh æuqvChamps-Elyséesuqxh iææuqh iæby ui æuqvæu Eiffel Toweræi uth æudñæuqxh aknguwgh uqçuaw.
+Ã‰: ÃœÃ¦ u'wÃ¯aÃ¦ u Ã» deÃ¦ thÃ¦ Ã© Champs-ElysÃ©eÃ§Ã¼ i Ã«a Ã¼ i Eiffel TowerÃ§Ã¼Ã© ghvi deÃ¦ thÃ¼a Ã©aÃ¯a.
 
-(Literally: I to have had mid-day-eaten with him on the-Champs-Elysées very much have loved and to the-top Eiffel Tower-of with him to gone have. Basically the same thing just SOV and head first, so not super wild. This language is pretty insane, grammatically, with 4 aspects, 3 moods, 5 tenses, and 3 persons, but no number distinctions, giving it 180-ish verb endings! It also has 7 cases and 18 productive derivational affixes. The syllable structure is only V(C)(C), so the clusters shouldn't have been too bad, but they're rough. The very frequent word-final "by", "kng", etc. and word medial "cts" are pretty brutal. Relatively few vowels, though, which is nice, and no nasal vowels, schwa, or high front rounded vowels at all. This is one of my favorites so far.)
+(This one has a really different literal translation: To have eaten lunch with him on Champs-ElysÃ©e-the and gone to top Eifel Tower-the-of too I had loved if-happen-past-perfect. Plus it's ergative-absolutive, which is pretty interesting. It doesn't show up in this text, but it also has the consonant cluster "tlng" a lot which is really hard and fun to say. For example, gratitude is tlnga.)
+
+
+IiaÃ©i: Ak'sÃ¼ueÃ¼mp' Ã¯tsqÃ»e ceudzÃ©i euch'kÃ©Ã¯iÃ« ach'aiÃ¤phmÃ¼beuqxhÃ»e Ã¼phyÃ»echhy Champs-ElysÃ©esÃ»e Ã« baÃ¼dzzcÃ» Ã¤ Ã©iÃ« Ã¯tsqÃ»e bÃ¼ ts'iaphmcÃ» Eiffel TowerÃ»echhy Ã« baÃ¼dzzcÃ» Ã».
+
+(Literally: Would loved-strongly have I to eat meal-middle-at day-of with him Champs-ElysÃ©es-at and to go have to top Eiffel Tower-of with him. Not as weird, but I thought I should show the crazy variety this program can generate. This language has some crazy phonology, though, with 41 consonants; distinguishing voiceless, voiced, aspirated, and ejective plosives; 10 pure vowels and 14 diphthongs; and a (C)V(C)(C) syllable structure, yielding some gnarly consonant clusters, like the ubiquitous "phm" cluster.)
+
+
+UvhaÃ¦iauiÃ±Ã§: AtÃ¦u itsÃ¦uuuabyuuiwuuwgh uth Ã¦udÃ±Ã¦uqxh ugh Ã¦uqvChamps-ElysÃ©esuqxh iÃ¦Ã¦uqh iÃ¦by ui Ã¦uqvÃ¦u Eiffel TowerÃ¦i uth Ã¦udÃ±Ã¦uqxh aknguwgh uqÃ§uaw.
+
+(Literally: I to have had mid-day-eaten with him on the-Champs-ElysÃ©es very much have loved and to the-top Eiffel Tower-of with him to gone have. Basically the same thing just SOV and head first, so not super wild. This language is pretty insane, grammatically, with 4 aspects, 3 moods, 5 tenses, and 3 persons, but no number distinctions, giving it 180-ish verb endings! It also has 7 cases and 18 productive derivational affixes. The syllable structure is only V(C)(C), so the clusters shouldn't have been too bad, but they're rough. The very frequent word-final "by", "kng", etc. and word medial "cts" are pretty brutal. Relatively few vowels, though, which is nice, and no nasal vowels, schwa, or high front rounded vowels at all. This is one of my favorites so far.)
 
 original version for comparison:
-Ewj: Ordlxuts ghoçtsoxj umtsloch ughdzngun eqx ulngun es tlmumts Champs-Elysées elqx tlosuy yughdz tlmumts muç odl tlmumts Eiffel Tower eghts ngenqx.
+Ewj: Ordlxuts ghoÃ§tsoxj umtsloch ughdzngun eqx ulngun es tlmumts Champs-ElysÃ©es elqx tlosuy yughdz tlmumts muÃ§ odl tlmumts Eiffel Tower eghts ngenqx.
 
-(Literally: Would loved have eat lunch with him on the Champs-Elysées and gone to the top of the Eiffel Tower too I. All syllables are of the form (S)(F)V(F)(S) where S-stop, F-fricative, and V-vowel and there are no predefined clusters. The word order is done slightly differently, and the declension was far worse. I cheated in this translation, but things are inflected in the dual and plural numbers, first and third persons, accusative instrumental and ablative cases, a bunch of tenses, and a bunch of moods. It's super weird and terrible. That is one of the things I'm proudest to have fixed. Also, the vowels are a lot simpler. It just choses a random number of vowels from the set ['a', 'e', 'i', 'o', 'u']. My idea of "phonotactics" was randomizing the probability of things appearing in certain spots. It only generates fusional languages. There is no infinitive, or even a possibility of having one. The derivational morphology is simpler. It cannot be ergative. It doesn't explain how stress works. It only has prepositions. It doesn't allow for productive compounding. It doesn't come up with a name. Finally, the languages are much less unique and varied.)
+(Literally: Would loved have eat lunch with him on the Champs-ElysÃ©es and gone to the top of the Eiffel Tower too I. All syllables are of the form (S)(F)V(F)(S) where S-stop, F-fricative, and V-vowel and there are no predefined clusters. The word order is done slightly differently, and the declension was far worse. I cheated in this translation, but things are inflected in the dual and plural numbers, first and third persons, accusative instrumental and ablative cases, a bunch of tenses, and a bunch of moods. It's super weird and terrible. That is one of the things I'm proudest to have fixed. Also, the vowels are a lot simpler. It just choses a random number of vowels from the set ['a', 'e', 'i', 'o', 'u']. My idea of "phonotactics" was randomizing the probability of things appearing in certain spots. It only generates fusional languages. There is no infinitive, or even a possibility of having one. The derivational morphology is simpler. It cannot be ergative. It doesn't explain how stress works. It only has prepositions. It doesn't allow for productive compounding. It doesn't come up with a name. Finally, the languages are much less unique and varied.)
